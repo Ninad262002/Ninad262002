@@ -10,7 +10,7 @@
 ### 👨‍💻 About Me
 
 - 🌱 Currently learning **Kubernetes & Advanced DevOps**
-- 💼 Working as **Service Desk Analyst (L1)** with hands-on Linux & troubleshooting
+- 💼 Working as **Administrator** with hands-on Linux & troubleshooting
 - 👯 Open to collaborate on **Cloud Native & DevOps Projects**
 - 🤝 Looking for guidance in **DevOps & Cloud Engineering**
 - 💬 Ask me about **Linux, AWS, Docker, Kubernetes, DevOps**
